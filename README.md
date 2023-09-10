@@ -61,7 +61,3 @@ The main program loop allows you to interact with these functions through a text
 ## Contributing
 
 If you want to contribute to the Daily Task Manager, feel free to fork this repository, make your changes, and submit a pull request. We welcome any improvements or feature additions that can enhance the program's functionality.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. You are free to use, modify, and distribute this software as long as you include the original license text.
